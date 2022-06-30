@@ -1,7 +1,7 @@
 {
-  "name": "themefisher-boilerplate-free",
-  "version": "2.6.0",
-  "description": "Gulp environment for running HTML themes by themefisher",
+  "name": "mono",
+  "version": "1.0.0",
+  "description": "Mono Free Bootstrap Admin Dashboard Template",
   "author": "Themefisher",
   "license": "MIT",
   "scripts": {
