@@ -192,6 +192,7 @@ gulp.task(
     "scss:build",
     "images:build",
     "fonts:build",
-    "plugins:build"
+    "plugins:build",
+    "others:build"
   )
 );
