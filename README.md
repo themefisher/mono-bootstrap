@@ -1,6 +1,6 @@
 # Mono Free Bootstrap Admin Dashboard Template
 
-![mono](https://demo.themefisher.com/thumbnails/mono.png)
+![mono](https://assets.teamosis.com/thumbs/mono.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/mono/)
 
